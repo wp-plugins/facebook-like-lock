@@ -1,9 +1,9 @@
 === Facebook Like Lock ===
-Contributors: ZHS
+Contributors: Zohaib Hassan Shaikh
 Donate link: http://pph.me/zhs
 Tags: like locker, facebook, seo, locker, social network, content lock, Activity Feed, analyse, analyze, button, comments, connect, dynamic, exclude, Facebook, facebook lock, facebook locker, Facebook Share to Unlock, facebook url linter, fb, fb like, fblike, featured image, featured post, for wordpress, free, gb-world, gbwiki, gbworld, generator, graph, iframe, javascript, javasdk, Like, like button, Like Lock, Like Locker, Like Locker Pro, like to read, like to unlock, likebutton, likes, lint, live support, meta-tags, new, Open, open graph, Open Graph Protocol, opengraph, otto, otto42, page, php, php function, plugin, plugins, Post, pro, read like, read like pro, recommend, recommendation, send, send button, sendbutton, Share, Share Lock, shortcode, shortcode like, sidebar widget, simple, socia media, social media, Social Plugins, socialwidget, status, template, template function, tools, twitter, twitter button, unlocker, update, url linter, viral, viral content, widget, widgets, wordpress, wordpress like, wp, xfbml
 Requires at least: 3.0
-Tested up to: 3.9.2
+Tested up to: 4.1.1
 Stable tag: 1.0
 License: GPLv3 or later
 
