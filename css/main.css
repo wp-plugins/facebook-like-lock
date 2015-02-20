@@ -1,0 +1,18 @@
+#wp_like_mwrap {
+background-color:#D1E0E2;
+border-radius:20px;
+margin:0 5%;
+height:50px;
+clear:both;
+padding:30px;
+}
+
+#wp_like_wrap {
+margin:0 35%;
+padding-top:10px;
+}
+
+#wp_lock_msg{
+clear:both;
+text-align:center;
+}
