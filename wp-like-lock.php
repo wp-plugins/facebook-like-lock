@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Facebook Like Lock for Wordpress
-Plugin URI: http://pph.me/zhs
+Plugin URI: http://wordpress.org/plugins/facebook-like-lock/
 Description: Facebook Like Lock for Wordpress. Locks your content and user can unlock by clicking on like button.
 Version: 1.0
-Author: zhs
+Author: Zohaib Hassan Shaikh
 Author URI: http://pph.me/zhs
 */
 require("settings.php");
@@ -147,7 +147,7 @@ function render_sl_mce_button($buttons) {
 			}
 			
 			//}
-			$content .= '</div></div>';
+			$content .= '</div></div><p style="font-size:10px; text-align:center">Powered by <a target="_blank" href="http://wordpress.org/plugins/facebook-like-lock">FB Like Lock</a></p>';
 			//}
 			}		
 			
