@@ -12,15 +12,37 @@ Facebook Like Lock for Wordpress. Locks your content and user can unlock by clic
 
 == Description ==
 
-Facebook Like Lock for Wordpress. Locks your content and user can unlock by clicking on like button.
+**Facebook Like Lock for Wordpress**. Locks your content and user can unlock by clicking on like button.
 
 This will increase facebook likes of your wordpress site and which will result in increase of traffic from Facebook.
 
+= Benefits =
+
+* **Increase social engagement** between you and your Site Visitors
+* **Get more likes** by locking your content
+* Display your Facebook content your way to perfectly match your website's style
+* The plugin is updated regularly with new features, bug-fixes and Facebook API changes
+* Support is quick and effective
+
+
+[View the reviews](http://wordpress.org/support/view/plugin-reviews/facebook-like-lock) to see what other users are saying about the Facebook Like Lock plugin.
+
+= Example =
+[wp-like-lock]
+Thanks for liking us on facebook you can now download/view the content
+[/wp-like-lock]
+
+= Installation =
+
+1. Install the Facebook Like Lock Plugin either via the WordPress plugin directory, or by uploading the files to your web server (in the `/wp-content/plugins/` directory).
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Now with tinyMce button you can lock specific content or complete post
+
 == Installation ==
 
-1. Upload `wp-like-lock.zip` to the `/wp-content/plugins/` directory
+1. Install the Facebook Like Lock Plugin either via the WordPress plugin directory, or by uploading the files to your web server (in the `/wp-content/plugins/` directory).
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Now with tinyMce button do your magic
+3. Now with tinyMce button you can lock specific content or complete post
 
 == Frequently Asked Questions ==
 = Where do I get support and further information =
